@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386F2D56-8AE0-4F84-B080-3A702FEC8692}|TodoApplication\\TodoApplication.csproj|c:\\users\\surjya kanta pursty\\desktop\\.net projects\\todoapplication\\todoapplication\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386F2D56-8AE0-4F84-B080-3A702FEC8692}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386F2D56-8AE0-4F84-B080-3A702FEC8692}|TodoApplication\\TodoApplication.csproj|c:\\users\\surjya kanta pursty\\desktop\\.net projects\\todoapplication\\todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386F2D56-8AE0-4F84-B080-3A702FEC8692}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386F2D56-8AE0-4F84-B080-3A702FEC8692}|TodoApplication\\TodoApplication.csproj|c:\\users\\surjya kanta pursty\\desktop\\.net projects\\todoapplication\\todoapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{386F2D56-8AE0-4F84-B080-3A702FEC8692}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\TodoApplication\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\TodoApplication\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApplication\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:55:14.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\TodoApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\TodoApplication\\Program.cs",
+              "RelativeToolTip": "TodoApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:50:31.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\TodoApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodoApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SURJYA KANTA PURSTY\\Desktop\\.NET PROJECTS\\TodoApplication\\TodoApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodoApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T14:51:27.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
